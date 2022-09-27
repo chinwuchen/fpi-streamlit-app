@@ -1,10 +1,10 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import plotly.express as px
 
 # import cufflinks as cf
-import datetime
+#import datetime
 #import altair as alt
 #import numpy as np
 
@@ -33,16 +33,16 @@ df = df_orig[~df_orig['Transport emissions per capita (tCO2)'].isnull()]
 #st.dataframe(df_emissions)
 
 # matplotlib scatterplot
-def static_plot():
-    fig, ax = plt.subplots(1,1)
-    ax.scatter(x=df['Population density'], y=df['Transport emissions per capita (tCO2)'])
-    ax.set_xlabel('Population density (person/km2)')
-    ax.set_ylabel('Transport emissions per capita (tCO2)')
+# def static_plot():
+#     fig, ax = plt.subplots(1,1)
+#     ax.scatter(x=df['Population density'], y=df['Transport emissions per capita (tCO2)'])
+#     ax.set_xlabel('Population density (person/km2)')
+#     ax.set_ylabel('Transport emissions per capita (tCO2)')
 
-    st.pyplot(fig)
+#     st.pyplot(fig)
 
-    st.write('Data source: Our World in Data')
-    st.write('Currently contains 53 cities')
+#     st.write('Data source: Our World in Data')
+#     st.write('Currently contains 53 cities')
 
 # interactive plotly scatterplot
 def interactive_plot():
@@ -60,12 +60,12 @@ def interactive_plot():
 
 # Sidebar setup
 # st.sidebar.title('Sidebar')
-st.sidebar.title('Options')
-options = st.sidebar.radio('Select what to display:', ['static', 'interactive'])
+#st.sidebar.title('Options')
+#options = st.sidebar.radio('Select what to display:', ['static', 'interactive'])
 
-if options == 'static':
-    static_plot()
-if options == 'interactive':
+#if options == 'static':
+#    static_plot()
+#if options == 'interactive':
     interactive_plot()
 
 
