@@ -1,0 +1,339 @@
+Entity,Code,Year,Transport emissions per capita (tCO2),Population density,Continent
+Abkhazia,OWID_ABK,2015,,,Asia
+Accra,,2016,0.35,14597,
+Afghanistan,AFG,2015,,,Asia
+Akrotiri and Dhekelia,OWID_AKD,2015,,,Asia
+Albania,ALB,2015,,,Europe
+Algeria,DZA,2015,,,Africa
+American Samoa,ASM,2015,,,Oceania
+Amman,,2016,0.67,4240,
+Amsterdam,,2016,1.37,4991,
+Andorra,AND,2015,,,Europe
+Angola,AGO,2015,,,Africa
+Anguilla,AIA,2015,,,North America
+Antarctica,ATA,2015,,,Antarctica
+Antigua and Barbuda,ATG,2015,,,North America
+Argentina,ARG,2015,,,South America
+Armenia,ARM,2015,,,Asia
+Aruba,ABW,2015,,,North America
+Athens,,2016,1.58,17027,
+Auckland,,2016,2.62,322,
+Austin,,2016,4.1,468,
+Australia,AUS,2015,,,Oceania
+Austria,AUT,2015,,,Europe
+Austria-Hungary,OWID_AUH,2015,,,Europe
+Azerbaijan,AZE,2015,,,Asia
+Baden,OWID_BAD,2015,,,Europe
+Bahamas,BHS,2015,,,North America
+Bahrain,BHR,2015,,,Asia
+Bangkok,,2016,2.95,5428,
+Bangladesh,BGD,2015,,,Asia
+Barbados,BRB,2015,,,North America
+Barcelona,,2016,0.64,15708,
+Basel,,2016,0.86,5306,
+Bavaria,OWID_BAV,2015,,,Europe
+Belarus,BLR,2015,,,Europe
+Belgium,BEL,2015,,,Europe
+Belize,BLZ,2015,,,North America
+Benin,BEN,2015,,,Africa
+Bermuda,BMU,2015,,,North America
+Bhutan,BTN,2015,,,Asia
+Bolivia,BOL,2015,,,South America
+Bonaire Sint Eustatius and Saba,BES,2015,,,North America
+Bosnia and Herzegovina,BIH,2015,,,Europe
+Boston,,2016,2.35,5356,
+Botswana,BWA,2015,,,Africa
+Bouvet Island,BVT,2015,,,Antarctica
+Brazil,BRA,2015,,,South America
+British Indian Ocean Territory,IOT,2015,,,Asia
+British Virgin Islands,VGB,2015,,,North America
+Brunei,BRN,2015,,,Asia
+Buenos Aires,,2016,1.21,15117,
+Bulgaria,BGR,2015,,,Europe
+Burkina Faso,BFA,2015,,,Africa
+Burundi,BDI,2015,,,Africa
+Cambodia,KHM,2015,,,Asia
+Cameroon,CMR,2015,,,Africa
+Canada,CAN,2015,,,North America
+Cape Town,,2016,1.4,1634,
+Cape Verde,CPV,2015,,,Africa
+Cayman Islands,CYM,2015,,,North America
+Central African Republic,CAF,2015,,,Africa
+Chad,TCD,2015,,,Africa
+Channel Islands,OWID_CIS,2015,,,Europe
+Chennai,,2016,0.77,15662,
+Chicago,,2016,2.96,4615,
+Chile,CHL,2015,,,South America
+China,CHN,2015,,,Asia
+Christmas Island,CXR,2015,,,Asia
+Ciudad de Mexico,,2016,1.76,5976,
+Cocos Islands,CCK,2015,,,Asia
+Colombia,COL,2015,,,South America
+Comoros,COM,2015,,,Africa
+Congo,COG,2015,,,Africa
+Cook Islands,COK,2015,,,Oceania
+Copenhagen,,2016,0.96,6860,
+Costa Rica,CRI,2015,,,North America
+Cote d'Ivoire,CIV,2015,,,Africa
+Croatia,HRV,2015,,,Europe
+Cuba,CUB,2015,,,North America
+Curacao,CUW,2015,,,North America
+Curitiba,,2016,1.6,4250,
+Cyprus,CYP,2015,,,Europe
+Czechia,CZE,2015,,,Europe
+Czechoslovakia,OWID_CZS,2015,,,Europe
+Democratic Republic of Congo,COD,2015,,,Africa
+Denmark,DNK,2015,,,Europe
+Djibouti,DJI,2015,,,Africa
+Dominica,DMA,2015,,,North America
+Dominican Republic,DOM,2015,,,North America
+Dubai,,2016,3.94,654,
+Durban,,2016,1.87,1502,
+East Germany,OWID_GDR,2015,,,Europe
+Ecuador,ECU,2015,,,South America
+Egypt,EGY,2015,,,Africa
+El Salvador,SLV,2015,,,North America
+Equatorial Guinea,GNQ,2015,,,Africa
+Eritrea,ERI,2015,,,Africa
+Eritrea and Ethiopia,OWID_ERE,2015,,,Africa
+Estonia,EST,2015,,,Europe
+Eswatini,SWZ,2015,,,Africa
+Ethiopia,ETH,2015,,,Africa
+Faeroe Islands,FRO,2015,,,Europe
+Falkland Islands,FLK,2015,,,South America
+Fiji,FJI,2015,,,Oceania
+Finland,FIN,2015,,,Europe
+France,FRA,2015,,,Europe
+French Guiana,GUF,2015,,,South America
+French Polynesia,PYF,2015,,,Oceania
+French Southern Territories,ATF,2015,,,Antarctica
+Gabon,GAB,2015,,,Africa
+Gambia,GMB,2015,,,Africa
+Georgia,GEO,2015,,,Asia
+Germany,DEU,2015,,,Europe
+Ghana,GHA,2015,,,Africa
+Gibraltar,GIB,2015,,,Europe
+Greece,GRC,2015,,,Europe
+Greenland,GRL,2015,,,North America
+Grenada,GRD,2015,,,North America
+Guadeloupe,GLP,2015,,,North America
+Guam,GUM,2015,,,Oceania
+Guatemala,GTM,2015,,,North America
+Guernsey,GGY,2015,,,Europe
+Guinea,GIN,2015,,,Africa
+Guinea-Bissau,GNB,2015,,,Africa
+Guyana,GUY,2015,,,South America
+Haiti,HTI,2015,,,North America
+Hanover,OWID_HAN,2015,,,Europe
+Heard Island and McDonald Islands,HMD,2015,,,Antarctica
+Heidelberg,,2016,1.7,1436,
+Hesse Electoral,OWID_HSE,2015,,,Europe
+Hesse Grand Ducal,OWID_HSG,2015,,,Europe
+Honduras,HND,2015,,,North America
+Hong Kong,HKG,2016,1.1,6585,
+Hong Kong,HKG,2015,,,Asia
+Houston,,2016,7.21,1442,
+Hungary,HUN,2015,,,Europe
+Iceland,ISL,2015,,,Europe
+India,IND,2015,,,Asia
+Indonesia,IDN,2015,,,Asia
+Iran,IRN,2015,,,Asia
+Iraq,IRQ,2015,,,Asia
+Ireland,IRL,2015,,,Europe
+Isle of Man,IMN,2015,,,Europe
+Israel,ISR,2015,,,Asia
+Istanbul,,2016,0.91,2759,
+Italy,ITA,2015,,,Europe
+Jamaica,JAM,2015,,,North America
+Japan,JPN,2015,,,Asia
+Jersey,JEY,2015,,,Europe
+Johannesburg,,2016,1.51,2892,
+Jordan,JOR,2015,,,Asia
+Kazakhstan,KAZ,2015,,,Asia
+Kenya,KEN,2015,,,Africa
+Kiribati,KIR,2015,,,Oceania
+Kosovo,OWID_KOS,2015,,,Europe
+Kuwait,KWT,2015,,,Asia
+Kyrgyzstan,KGZ,2015,,,Asia
+Lagos,,2016,0.25,7506,
+Laos,LAO,2015,,,Asia
+Latvia,LVA,2015,,,Europe
+Lebanon,LBN,2015,,,Asia
+Lesotho,LSO,2015,,,Africa
+Liberia,LBR,2015,,,Africa
+Libya,LBY,2015,,,Africa
+Liechtenstein,LIE,2015,,,Europe
+Lima,,2016,0.71,3361,
+Lithuania,LTU,2015,,,Europe
+London,,2016,0.87,5277,
+Los Angeles,,2016,1.47,3200,
+Luxembourg,LUX,2015,,,Europe
+Macao,MAC,2015,,,Asia
+Madagascar,MDG,2015,,,Africa
+Madrid,,2016,1.04,5185,
+Malawi,MWI,2015,,,Africa
+Malaysia,MYS,2015,,,Asia
+Maldives,MDV,2015,,,Asia
+Mali,MLI,2015,,,Africa
+Malta,MLT,2015,,,Europe
+Marshall Islands,MHL,2015,,,Oceania
+Martinique,MTQ,2015,,,North America
+Mauritania,MRT,2015,,,Africa
+Mauritius,MUS,2015,,,Africa
+Mayotte,MYT,2015,,,Africa
+Mecklenburg Schwerin,OWID_MEC,2015,,,Europe
+Medellin,,2016,0.6,65,
+Melbourne,,2016,5.76,3242,
+Mexico,MEX,2015,,,North America
+Micronesia (country),FSM,2015,,,Oceania
+Milan,,2016,0.65,7395,
+Modena,OWID_MOD,2015,,,Europe
+Moldova,MDA,2015,,,Europe
+Monaco,MCO,2015,,,Europe
+Mongolia,MNG,2015,,,Asia
+Montenegro,MNE,2015,,,Europe
+Montreal,,2016,2.38,3927,
+Montserrat,MSR,2015,,,North America
+Morocco,MAR,2015,,,Africa
+Mozambique,MOZ,2015,,,Africa
+Myanmar,MMR,2015,,,Asia
+Nagorno-Karabakh,OWID_NAG,2015,,,Asia
+Namibia,NAM,2015,,,Africa
+Nauru,NRU,2015,,,Oceania
+Nepal,NPL,2015,,,Asia
+Netherlands,NLD,2015,,,Europe
+Netherlands Antilles,ANT,2015,,,North America
+New Caledonia,NCL,2015,,,Oceania
+New Orleans,,2016,4.16,878,
+New York City,,2016,1.39,10833,
+New Zealand,NZL,2015,,,Oceania
+Nicaragua,NIC,2015,,,North America
+Niger,NER,2015,,,Africa
+Nigeria,NGA,2015,,,Africa
+Niue,NIU,2015,,,Oceania
+Norfolk Island,NFK,2015,,,Oceania
+North Korea,PRK,2015,,,Asia
+North Macedonia,MKD,2015,,,Europe
+Northern Cyprus,OWID_CYN,2015,,,Asia
+Northern Mariana Islands,MNP,2015,,,Oceania
+Norway,NOR,2015,,,Europe
+Oman,OMN,2015,,,Asia
+Oslo,,2016,1.25,1374,
+Pakistan,PAK,2015,,,Asia
+Palau,PLW,2015,,,Oceania
+Palestine,PSE,2015,,,Asia
+Panama,PAN,2015,,,North America
+Papua New Guinea,PNG,2015,,,Oceania
+Paraguay,PRY,2015,,,South America
+Paris,,2016,0.31,21619,
+Parma,OWID_PMA,2015,,,Europe
+Peru,PER,2015,,,South America
+Philadelphia,,2016,2.07,4456,
+Philippines,PHL,2015,,,Asia
+Pitcairn,PCN,2015,,,Oceania
+Poland,POL,2015,,,Europe
+Portland,,2016,3.69,635,
+Portugal,PRT,2015,,,Europe
+Puerto Rico,PRI,2015,,,North America
+Qatar,QAT,2015,,,Asia
+Quito,,2016,1.18,605,
+Republic of Vietnam,OWID_RVN,2015,,,Asia
+Reunion,REU,2015,,,Africa
+Romania,ROU,2015,,,Europe
+Russia,RUS,2015,,,Europe
+Rwanda,RWA,2015,,,Africa
+Saint Barthélemy,BLM,2015,,,North America
+Saint Helena,SHN,2015,,,Africa
+Saint Kitts and Nevis,KNA,2015,,,North America
+Saint Lucia,LCA,2015,,,North America
+Saint Martin (French part),MAF,2015,,,North America
+Saint Pierre and Miquelon,SPM,2015,,,North America
+Saint Vincent and the Grenadines,VCT,2015,,,North America
+Salvador,,2016,0.95,4162,
+Samoa,WSM,2015,,,Oceania
+San Francisco,,2016,2.78,7197,
+San Marino,SMR,2015,,,Europe
+Sao Tome and Principe,STP,2015,,,Africa
+Saudi Arabia,SAU,2015,,,Asia
+Saxony,OWID_SAX,2015,,,Europe
+Senegal,SEN,2015,,,Africa
+Seoul,,2016,0.92,17170,
+Serbia,SRB,2015,,,Europe
+Serbia and Montenegro,OWID_SRM,2015,,,Europe
+Serbia excluding Kosovo,OWID_SEK,2015,,,Europe
+Seychelles,SYC,2015,,,Africa
+Sierra Leone,SLE,2015,,,Africa
+Singapore,SGP,2015,,,Asia
+Sint Maarten (Dutch part),SXM,2015,,,North America
+Slovakia,SVK,2015,,,Europe
+Slovenia,SVN,2015,,,Europe
+Solomon Islands,SLB,2015,,,Oceania
+Somalia,SOM,2015,,,Africa
+Somaliland,OWID_SML,2015,,,Africa
+South Africa,ZAF,2015,,,Africa
+South Georgia and the South Sandwich Islands,SGS,2015,,,South America
+South Korea,KOR,2015,,,Asia
+South Ossetia,OWID_SOS,2015,,,Asia
+South Sudan,SSD,2015,,,Africa
+Spain,ESP,2015,,,Europe
+Sri Lanka,LKA,2015,,,Asia
+Stockholm,,2016,0.94,4912,
+Sudan,SDN,2015,,,Africa
+Suriname,SUR,2015,,,South America
+Svalbard and Jan Mayen,SJM,2015,,,Europe
+Sweden,SWE,2015,,,Europe
+Switzerland,CHE,2015,,,Europe
+Sydney,,2016,0.92,8066,
+Syria,SYR,2015,,,Asia
+Taiwan,TWN,2015,,,Asia
+Tajikistan,TJK,2015,,,Asia
+Tanzania,TZA,2015,,,Africa
+Thailand,THA,2015,,,Asia
+Timor,TLS,2015,,,Asia
+Togo,TGO,2015,,,Africa
+Tokelau,TKL,2015,,,Oceania
+Tokyo,,2016,0.89,6071,
+Tonga,TON,2015,,,Oceania
+Toronto,,2016,2.34,4333,
+Transnistria,OWID_TRS,2015,,,Europe
+Trinidad and Tobago,TTO,2015,,,North America
+Tshwane,,2016,1.48,483,
+Tunisia,TUN,2015,,,Africa
+Turkey,TUR,2015,,,Asia
+Turkmenistan,TKM,2015,,,Asia
+Turks and Caicos Islands,TCA,2015,,,North America
+Tuscany,OWID_TUS,2015,,,Europe
+Tuvalu,TUV,2015,,,Oceania
+Two Sicilies,OWID_SIC,2015,,,Europe
+USSR,OWID_USS,2015,,,Europe
+Uganda,UGA,2015,,,Africa
+Ukraine,UKR,2015,,,Europe
+United Arab Emirates,ARE,2015,,,Asia
+United Kingdom,GBR,2015,,,Europe
+United Korea,OWID_KRU,2015,,,Asia
+United States,USA,2015,,,North America
+United States Minor Outlying Islands,UMI,2015,,,Oceania
+United States Virgin Islands,VIR,2015,,,North America
+Uruguay,URY,2015,,,South America
+Uzbekistan,UZB,2015,,,Asia
+Vancouver,,2016,1.74,5423,
+Vanuatu,VUT,2015,,,Oceania
+Vatican,VAT,2015,,,Europe
+Venezuela,VEN,2015,,,South America
+Venice,,2016,2.8,632,
+Vietnam,VNM,2015,,,Asia
+Wallis and Futuna,WLF,2015,,,Oceania
+Warsaw,,2016,1.11,3356,
+"Washington, DC",,2016,2.68,4255,
+West Germany,OWID_GFR,2015,,,Europe
+Western Sahara,ESH,2015,,,Africa
+Wuerttemburg,OWID_WRT,2015,,,Europe
+Yemen,YEM,2015,,,Asia
+Yemen Arab Republic,OWID_YAR,2015,,,Asia
+Yemen People's Republic,OWID_YPR,2015,,,Asia
+Yokohama,,2016,0.94,8574,
+Yugoslavia,OWID_YGS,2015,,,Europe
+Zambia,ZMB,2015,,,Africa
+Zanzibar,OWID_ZAN,2015,,,Africa
+Zimbabwe,ZWE,2015,,,Africa
+Åland Islands,ALA,2015,,,Europe
