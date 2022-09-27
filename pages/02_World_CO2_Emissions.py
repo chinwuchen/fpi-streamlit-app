@@ -17,14 +17,14 @@ st.write('---')
 
 
 
-geo_path = '/Users/cwchen/Projects/fpi-app/data'
-data_path = '/Users/cwchen/Projects/fpi-app/data/country-emission-per-capita-2019.csv'
+data_path = 'data'
+country_path = 'data/country-emission-per-capita-2019.csv'
 
-country_geo = f"{geo_path}/My_WB_countries_Admin0_lowres_adde.geojson"
+country_geo = f"{data_path}/My_WB_countries_Admin0_lowres_adde.geojson"
 #country_geo = geo
-country_data = pd.read_csv(data_path)
+country_data = pd.read_csv(country_path)
 
-city_file = f"{geo_path}/GGMCF_top500cities_latlon.csv"
+city_file = f"{data_path}/GGMCF_top500cities_latlon.csv"
 #city_file = f"{geo_path}/Net_Zero_Tracker_city_all.csv"
 city_df = pd.read_csv(city_file)
 
