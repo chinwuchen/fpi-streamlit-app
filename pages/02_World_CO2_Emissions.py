@@ -69,7 +69,7 @@ NIL = folium.features.GeoJson(
 #        aliases=['State: ','ID: '],
         fields=['NAME_EN', 'tCO2e_per_capita_2019'],
         aliases=['', ''],
-        style=("background-color: white; color: #333333; font-family: arial; font-size: 12px; padding: 5px;") 
+        style=("background-color: white; color: #333333; font-family: arial; font-size: 14px; padding: 5px;") 
     )
 )
 m.add_child(NIL)
@@ -88,5 +88,7 @@ m.add_child(mc)
 folium.LayerControl().add_to(m)
 
 folium_static(m, width=800, height=600)
+
+st.write('The map shows CO2 emissions per capita at the country level, and that of top 500 highest emitting cities')
 
 st.write('Data Sources: World Bank, Climate Watch, Net Zero Tracker, Our World in Data, Global Gridded Model of Carbon Footprints (GGMCF)')
