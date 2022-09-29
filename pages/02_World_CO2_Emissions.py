@@ -89,6 +89,6 @@ folium.LayerControl().add_to(m)
 
 folium_static(m, width=800, height=600)
 
-st.write('The map shows CO2 emissions per capita at the country level, and that of top 500 highest emitting cities')
+st.write('The map shows CO2 emissions per capita at the country level, and that of top 500 highest emitting cities.')
 
 st.write('Data Sources: World Bank, Climate Watch, Net Zero Tracker, Our World in Data, Global Gridded Model of Carbon Footprints (GGMCF)')
