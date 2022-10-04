@@ -20,7 +20,7 @@ st.write('---')
 data_path = 'data'
 country_path = 'data/country-emission-per-capita-2019.csv'
 
-country_geo = f"{data_path}/My_WB_countries_Admin0_lowres_adde.geojson"
+country_geo = f"{data_path}/My_WB_countries_Admin0_lowres_addemission_2decimal.geojson"
 #country_geo = geo
 country_data = pd.read_csv(country_path)
 
