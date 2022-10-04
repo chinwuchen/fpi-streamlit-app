@@ -67,7 +67,7 @@ NIL = folium.features.GeoJson(
     tooltip=folium.features.GeoJsonTooltip(
 #        fields=['name','id'],  # use fields from the json file
 #        aliases=['State: ','ID: '],
-        fields=['NAME_EN', 'tCO2e_per_capita_2019'],
+        fields=['NAME_EN', 'tCO2e_pcap_2019_deci'],
         aliases=['', ''],
         style=("background-color: white; color: #333333; font-family: arial; font-size: 14px; padding: 5px;") 
     )
